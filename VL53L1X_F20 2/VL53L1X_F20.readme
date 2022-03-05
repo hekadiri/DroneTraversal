@@ -1,0 +1,4 @@
+VL53l1X_W20V3 is a revised arduino control program that is set to longer maximum range (2.6 meters) than the previous version and also prints out the filtered value of the distance so the effect of changing ALPHA can be followed on the serial monitor. It also allows for printing to the console be turned off to reduce program overhead once your team has decided on the ALPHA they want to run on their copter for the project. 
+
+Remember to reload your copy of this program with your custom ALPHA setting into the LIDAR arduino each time you test fly during your project work other wise you have no idea how some other team may have left the LIDAR arduino programmed.
+
